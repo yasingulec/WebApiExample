@@ -1,0 +1,12 @@
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\WebApiExample.Entities.dll.config
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\WebApiExample.Entities.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\WebApiExample.Entities.pdb
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\EntityFramework.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\EntityFramework.xml
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\obj\Debug\WebApiExample.Entities.csprojAssemblyReference.cache
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\obj\Debug\WebApiExample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\obj\Debug\WebApiExample.Entities.csproj.CopyComplete
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\obj\Debug\WebApiExample.Entities.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.Entities\obj\Debug\WebApiExample.Entities.pdb

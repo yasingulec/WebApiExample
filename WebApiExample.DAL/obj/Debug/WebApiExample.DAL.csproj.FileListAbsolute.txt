@@ -1,0 +1,15 @@
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\WebApiExample.DAL.dll.config
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\WebApiExample.DAL.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\WebApiExample.DAL.pdb
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\EntityFramework.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\WebApiExample.Entities.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\WebApiExample.Entities.pdb
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\WebApiExample.Entities.dll.config
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\EntityFramework.xml
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\obj\Debug\WebApiExample.DAL.csprojAssemblyReference.cache
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\obj\Debug\WebApiExample.DAL.csproj.CoreCompileInputs.cache
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\obj\Debug\WebApiExample.DAL.csproj.CopyComplete
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\obj\Debug\WebApiExample.DAL.dll
+C:\Users\loses\source\repos\WebApiExample\WebApiExample.DAL\obj\Debug\WebApiExample.DAL.pdb

@@ -1,0 +1,25 @@
+﻿@model WebApiExample.Entities.Customer
+
+@{
+    ViewBag.Title = "UpdateCustomer";
+}
+@using (Html.BeginForm("UpdateCustomer", "Customer", FormMethod.Post))
+{
+    @Html.HiddenFor(x=>x.CustomerID)
+    <div class="form-group">
+        @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control", placeholder = "First Name", type = "text" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(x => x.LastName, new { @class = "form-control", placeholder = "Last Name", type = "text" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(x => x.Age, new { @class = "form-control", placeholder = "Age", type = "text" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control", placeholder = "Email", type = "text" })
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(x => x.PhoneNumber, new { @class = "form-control", placeholder = "Phone Number", type = "text" })
+    </div>
+    <button class="btn btn-primary" type="submit">Güncelle</button>
+}
